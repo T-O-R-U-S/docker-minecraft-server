@@ -4,7 +4,7 @@ services:
     environment:
       EULA: "true"
       TYPE: FABRIC
-      MODS_FILE:/extras/mods.txt
+      MODS_FILE: /extras/mods.txt
       REMOVE_OLD_MODS: "true"
     ports:
       - "25565:25565"
