@@ -1,0 +1,1 @@
+https://github.com/plasmoapp/plasmo-voice/releases/download/2.0.10/plasmovoice-fabric-1.21-2.0.10.jar
